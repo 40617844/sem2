@@ -1,2 +1,1 @@
-Just a sample
-adding some text as part of lab 2
+![workflow](https://github.com/40617844/sem2/actions/workflows/main.yml/badge.svg)
